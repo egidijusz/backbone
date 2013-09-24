@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "jquery": "~2.0.3",
-    "components-underscore": "~1.4.4"
+    "components-underscore": "https://github.com/components/underscore.git"
   },
   "version": "1.0.0",
   "main": "backbone.js"
