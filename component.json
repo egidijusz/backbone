@@ -7,7 +7,7 @@
   "author": "Jeremy Ashkenas <jeremy@documentcloud.org>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/components/backbone.git"
+    "url": "git://github.com/egidijusz/backbone.git"
   },
   "dependencies": {
     "components/jquery": "2.0.3",
