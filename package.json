@@ -17,7 +17,7 @@
   "author": "Jeremy Ashkenas <jeremy@documentcloud.org>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/components/backbone.git"
+    "url": "git://github.com/egidijusz/backbone.git"
   },
   "main": "backbone.js",
   "version": "1.0.0"
